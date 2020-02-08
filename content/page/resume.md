@@ -3,9 +3,7 @@ title: "Resume"
 date: 2020-02-08T11:18:39-08:00
 draft: false
 ---
-Joanna Lien
-775-764-0878
-jmlien42@gmail.com
+# Joanna Lien
 
 ## General Skills
 
