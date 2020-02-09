@@ -11,4 +11,4 @@ I am an introductory-level developer who is trying to regain her skills after a 
 
 ### Details About This Site
 
-This site was made with [Hugo](https://gohugo.io/), an "open-source static site generator" written in   [GoLang](https://golang.org/). I do not take credit for it, nor any of the design. Any tweaks to the original theme for the sake of personalization are minimal at best. 
+This site was made with [Hugo](https://gohugo.io/), an "open-source static site generator" written in   [GoLang](https://golang.org/) and is hosted with [Git Hub Pages](https://pages.github.com/). I do not take credit for it, nor any of the design. Any tweaks to the original theme for the sake of personalization are minimal at best. 
